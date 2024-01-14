@@ -20,43 +20,43 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Matheus Pimenta",
+  initials: "MP",
+  location: "Gravataí, Rio Grande do Sul, Brazil",
+  locationLink: "https://www.google.com/maps/place/Gravatai",
   about:
     "Full Stack Engineer focused on building products with extra attention to detail",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+    "Hello there! I'm Matheus Pimenta, a passionate Fullstack Software Engineer and Tech Leader with a relentless drive for innovation and a knack for building cutting-edge solutions. I've dedicated my career to crafting elegant, efficient, and user-centric software that pushes the boundaries of what's possible.",
+  avatarUrl: "https://avatars.githubusercontent.com/u/47225700?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "mathcpimenta@gmail.com",
+    tel: "+5551983150152",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/mathcpimenta",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/matheuscardosopimenta/",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://twitter.com/matheuscpimenta",
         icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Escolas e Faculdades QI",
+      degree: "Bachelor's Degree in Bachelor of Science in Computer Science",
+      start: "2009",
+      end: "2012",
     },
   ],
   work: [
@@ -83,7 +83,7 @@ export const RESUME_DATA = {
         "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
     },
     {
-      company: "Jojo Mobile",
+      company: "Perverte",
       link: "https://bsgroup.eu/",
       badges: [],
       title: "Android Developer → Lead Android Developer",
@@ -94,24 +94,25 @@ export const RESUME_DATA = {
         "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
     },
     {
-      company: "Nokia Siemens Networks",
-      link: "https://www.nokia.com",
+      company: "Fator",
+      link: "https://fator.ag/m",
       badges: [],
-      title: "C/C++ Developer",
+      title: "Jr. Software Engineer",
       logo: NSNLogo,
-      start: "2010",
-      end: "2012",
-      description: "Creating and testing software for LTE base stations",
+      start: "2013",
+      end: "2016",
+      description: "Worked as frontend developer focused on websites and small applications",
     },
   ],
   skills: [
+    "HTML",
+    "CSS",
     "JavaScript",
     "TypeScript",
     "React/Next.js/Remix",
     "Node.js",
     "GraphQL",
-    "Relay",
-    "WebRTC",
+    "Go",
   ],
   projects: [
     {
